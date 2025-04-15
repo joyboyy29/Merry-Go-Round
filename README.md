@@ -6,43 +6,33 @@ Merry-Go-Round (MGR) is a compact, single-header hashing library written in mode
 It’s designed for fun, entropy exploration, and experimentation in the world of custom cryptographic primitives.
 
 <div align="center">
-  
-
-                                                            
-                            ██                              
-                            ██                              
+                          
                              █                              
                              █                              
-                                                            
                              █                              
-                                                            
+                             █                              
                              █                              
                █  █████      █                              
            ██ ████████████   █                              
               ██████████████ █                              
-              █████████████             ███                 
+              █████████████  █          ███                 
               ██   █████████ █   ███████  ███████    █      
                     ██████████████████████  ████████        
                    ███████████████████████   ███████        
                    ███████████████████████                  
                ██████████████████████████                   
              ██   ██████████████   ███████                  
-            ██    █                 ██  ███                 
+            ██    █          █      ██  ███                 
                    █         █     ██     ██                
-                     █           ██       █                 
+                     █       █   ██       █                 
                              █  ██       ██                 
                              █          █                   
                              █                              
                              █                              
                              █                              
                              █                              
+                                                                                     
                                                             
-                            ██                              
-                            ██                              
-                                                            
-                                                            
-
-
 ---
 <div align="left">
   
