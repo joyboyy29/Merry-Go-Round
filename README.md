@@ -33,9 +33,6 @@ It’s designed for fun, entropy exploration, and experimentation in the world o
                              █                              
                                                                                      
 
-
-</div>
-
 ---
 
 <div align="left">
