@@ -75,3 +75,4 @@ int main() {
 ## Disclaimer
 This is not a cryptographically secure hash.
 Use it for experimenting, or fun — not for security.
+Your boss will get mad at you if you do.
